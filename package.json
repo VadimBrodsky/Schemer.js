@@ -2,5 +2,8 @@
   "name": "schemer.js",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "teenytest": "^5.2.1"
+  }
 }
