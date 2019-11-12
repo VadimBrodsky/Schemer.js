@@ -3,7 +3,11 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "test": "teenytest"
+  },
   "devDependencies": {
+    "prettier": "^1.19.1",
     "teenytest": "^5.2.1"
   }
 }
